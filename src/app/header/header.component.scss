@@ -1,0 +1,14 @@
+.menu{
+    padding: 11px;
+    font-size: 14px;
+}
+.header{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    background-color: green;
+    color: wheat;
+}
+.menu.active{
+    border-bottom: 1px solid;
+    color: white;
+}
